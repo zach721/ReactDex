@@ -1,0 +1,76 @@
+
+/*add my font */
+@font-face {
+    font-family: Pokefont;
+    src: url('font/Pokemonfont.ttf');
+}
+
+@font-face {
+    font-family: Pokefont2;
+    src: url('font/PokemonHollow.ttf');
+}
+
+
+
+#list{
+    font-family: Pokefont ;
+    transform: translateX(700px);
+    font-size: 80%;
+    inline-size: 500px;
+    overflow-wrap: break-word;
+    color: white;
+    border: solid;
+}
+
+#divpoke{
+    transform: translateX(5%)translateY(-90%);
+}
+
+#searchbox{
+    float: left;
+    display: block;
+    color: rgb(255, 250, 250);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 27px;
+    background-color: #706f6f;
+    border-color: aliceblue;
+    
+}
+#search{
+
+    position: absolute;
+    top: 440px;
+    right: 60%;
+    display: inline-block;
+}
+#pokedex{
+    background-color: #3B3838;
+    height: 100%;
+    overflow: hidden;
+}
+
+#button{
+    position: absolute;
+    top: 440px;
+    right: 20%;
+}
+::placeholder{
+    color: white;
+}
+
+#message{
+    font-family: Pokefont2;
+    color: cornsilk;
+    text-align: center;
+
+}
+
+#ash{
+    
+    position: absolute;
+    top: 110%;
+    right: 45%;
+
+}
