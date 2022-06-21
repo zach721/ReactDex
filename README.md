@@ -71,12 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-### Screenshots 
-Example 1:
+# Screenshots 
+### Example 1:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot.png?raw=true)
 
-Example2:
+### Example2:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot1.png?raw=true)
 
-Example3:
+### Example3:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot2.png?raw=true)
