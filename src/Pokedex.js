@@ -20,9 +20,8 @@ function Pokedex(){
 
     
       axios.get(api).then((response) => {
-      //  console.log(response.data.sprites.front_default)
         setPost(response.data)
-        //console.log(post)       
+
       
       })
 
