@@ -84,13 +84,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ##V.2 Improvements
- fixed infinite loop and pc's heating
- added list of all pokemon
- all pokemon are available
+ fixed infinite loop and pc's heating.\
+ added list of all pokemon.\
+ all pokemon are available.\
 
 # V.3 Future feautures
- autocomplete box
- save your pokemon 
- add pokemon cries
+ autocomplete box.\
+ save your pokemon .\
+ add pokemon cries.\
 
 
