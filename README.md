@@ -86,11 +86,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ##V.2 Improvements
  fixed infinite loop and pc's heating.\
  added list of all pokemon.\
- all pokemon are available.\
+ all pokemon are available.
 
 # V.3 Future feautures
  autocomplete box.\
  save your pokemon .\
- add pokemon cries.\
+ add pokemon cries.
 
+# Try app
 
+https://pokedex-repository-nine.vercel.app/
