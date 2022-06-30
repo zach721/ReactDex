@@ -20,10 +20,15 @@
     overflow-wrap: break-word;
     color: white;
     border: solid;
+    user-select: none;
 }
 
 #divpoke{
-    transform: translateX(5%)translateY(-90%);
+    position: absolute;
+    top: 2%;
+    right: 62%;
+  user-select: none;
+    z-index: 1;
 }
 
 #searchbox{
@@ -49,6 +54,7 @@
     background-color: #3B3838;
     height: 100%;
     overflow: hidden;
+    height: 1200px;
 }
 
 #button{
@@ -62,15 +68,97 @@
 
 #message{
     font-family: Pokefont2;
-    color: cornsilk;
+    color: rgb(233, 230, 230);
     text-align: center;
+    position: relative;
+    top: 45%;
+    right: 0%;
+    text-shadow:2px 2px #3B3838;
+  letter-spacing: 3px;
+  z-index: 1;
+  user-select: none;
+
 
 }
 
 #ash{
     
     position: absolute;
-    top: 110%;
+    top: 115%;
     right: 45%;
+    border: 5px solid rgb(233, 230, 230);
+    z-index: 1;
+}
 
+#pokeball{
+position: absolute;
+top: 3%;
+right: 9%;
+z-index: 3;
+}
+
+#sinnoh{
+    height: 90%;
+    width: 100%;
+    filter: brightness(50%);
+    position: absolute;
+    top: 100%;
+    right: 0%;
+
+}
+
+#author{
+    color: white;
+    z-index: 1;
+    position: absolute;
+    font-size: 20px;
+    font-family: monospace;
+    top: 100%;
+    right: 5%;
+    user-select: none;
+}
+#github{
+    
+    z-index: 1;
+    position: absolute;
+    top: 100%;
+    right: 19%;
+    user-select: none;
+
+}
+#card{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(240, 240, 240);
+    z-index: 0;
+    position: absolute;
+    top: 5%;
+    right: 63%;
+}
+
+
+#card2{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(240, 240, 240);
+    z-index: 0;
+    position: absolute;
+    top: 5%;
+    right: 43%;
+}
+#listpoke{
+    background-color: white;
+    font-size: 50%;
+    width: 300px;
+    height: 600px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+    position: absolute;
+    right: 7%;
+    text-align:center;
+    z-index: 2;
+    border-bottom-left-radius: 10%;
+    color: white;
+    background-color: #3B3838;
 }
