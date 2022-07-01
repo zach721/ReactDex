@@ -186,4 +186,12 @@ ul {
   
   li {
     flex: 33%;
+
+  }
+
+  .row:hover{
+    background-color: rgb(85, 88, 221);
+  }
+  .row{
+    border-radius: 20px;
   }

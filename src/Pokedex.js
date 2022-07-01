@@ -156,8 +156,8 @@ function Pokedex(){
     let url = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'+nurl +'.png'
 
           return(
-            <div>
-            <img onClick={()=>{{setApi(api__)}{setApides(api3_)}{setCount(parseInt(nurl,10))}}} src={url} />
+            <div onClick={()=>{{setApi(api__)}{setApides(api3_)}{setCount(parseInt(nurl,10))}}} class="row" >
+            <img  src={url} />
             <h1>{list3.url.replace(/\D/g, '').substring(1)}º </h1>
             <h1 id={list3.name.toString()} > {list3.name}</h1>
             
