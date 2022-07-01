@@ -201,7 +201,7 @@ function Pokedex(){
       </div>
       <img id="ash" src={ash} width="160" height="160" />
       <h1 id="message" >This app was made with love using React</h1>
-      <h1 id="message">Created by Zach721</h1>
+      <h1 id="message2">Created by Zach721</h1>
       <div>
       <a href="https://www.github.com/zach721" target="_blank">
       <img id="github" src={github} height="40" width="40"/><h1 id="author" >My github account</h1></a>

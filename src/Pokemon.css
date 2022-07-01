@@ -69,10 +69,23 @@
 #message{
     font-family: Pokefont2;
     color: rgb(233, 230, 230);
-    text-align: center;
-    position: relative;
-    top: 45%;
-    right: 0%;
+    position: absolute;
+    top: 145%;
+    right: 20%;
+    text-shadow:2px 2px #3B3838;
+  letter-spacing: 3px;
+  z-index: 1;
+  user-select: none;
+
+
+}
+
+#message2{
+    font-family: Pokefont2;
+    color: rgb(233, 230, 230);
+    position: absolute;
+    top: 155%;
+    right: 35%;
     text-shadow:2px 2px #3B3838;
   letter-spacing: 3px;
   z-index: 1;
