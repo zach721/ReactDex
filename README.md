@@ -81,6 +81,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Example3:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot2.png?raw=true)
 
-# Enjoy!!!
 
-# Fixed some issues
+
+##V.2 Improvements
+ fixed infinite loop and pc's heating.\
+ added list of all pokemon.\
+ all pokemon are available.
+
+# V.3 Future feautures
+ autocomplete box.\
+ save your pokemon .\
+ add pokemon cries.
+
+# Try app
+
+https://pokedex-repository-nine.vercel.app/
