@@ -157,8 +157,9 @@ function Pokedex(){
 
           return(
             <div>
-            <img onClick={()=>{{setApi(api__)}{setApides(api3_)}}} src={url} />
-            <h1 id={list3.name.toString()} >{list3.url.replace(/\D/g, '').substring(1)} {list3.name}</h1>
+            <img onClick={()=>{{setApi(api__)}{setApides(api3_)}{setCount(parseInt(nurl,10))}}} src={url} />
+            <h1>{list3.url.replace(/\D/g, '').substring(1)}º </h1>
+            <h1 id={list3.name.toString()} > {list3.name}</h1>
             
             </div>
          
