@@ -91,7 +91,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # V.3 Future feautures
  autocomplete box.\
  save your pokemon .\
- add pokemon cries.
+ add pokemon cries.\
+ search by type
 
 # Try app
 
