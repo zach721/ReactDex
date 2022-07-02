@@ -71,7 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Sample video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MG7KXd9WwDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/MG7KXd9WwDI/0.jpg)](https://www.youtube.com/watch?v=MG7KXd9WwDI)
+
 
 
 # Screenshots 
