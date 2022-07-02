@@ -11,24 +11,24 @@ https://pokedex-repository-nine.vercel.app/
 
 
 # Screenshots:
-### Pokedex app example 1:
+# Pokedex app example 1:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot1_.png?raw=true)
 
-### Pokedex app example 2:
+# Pokedex app example 2:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot2_.png?raw=true)
 
-### Pokedex app example 3:
+# Pokedex app example 3:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot3_.png?raw=true)
 
-### Pokedex app example 4:
+# Pokedex app example 4:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot4_.png?raw=true)
 
-### Pokedex app example 5:
+# Pokedex app example 5:
 ![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot5_.png?raw=true)
 
 
 
-##V.2 Improvements
+# V.2 Improvements
  fixed infinite loop and pc's heating.\
  added list of all pokemon.\
  all pokemon are available.
@@ -37,5 +37,5 @@ https://pokedex-repository-nine.vercel.app/
  autocomplete box.\
  save your pokemon .\
  add pokemon cries.\
- search by type
+ search by type.
 
