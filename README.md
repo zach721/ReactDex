@@ -1,5 +1,9 @@
+# Description: 
+Reactdex is a reactjs pokedex made for
+learning purposes
 
-# Try app:
+
+# Try this app!:
 
 https://pokedex-repository-nine.vercel.app/
 
