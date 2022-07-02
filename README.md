@@ -71,8 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Sample video
-
-https://www.youtube.com/watch?v=MG7KXd9WwDI
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/video/pokedex_video.mp4?raw=true)
 
 
 # Screenshots 
