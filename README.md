@@ -71,8 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Sample video
+[![Alt text](https://img.youtube.com/vi/MG7KXd9WwDI/0.jpg)](https://www.youtube.com/watch?v=MG7KXd9WwDI)
 
-https://www.youtube.com/watch?v=MG7KXd9WwDI
 
 
 # Screenshots 
