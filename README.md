@@ -77,13 +77,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Screenshots 
 ### Example 1:
-![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot.png?raw=true)
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot1_.png?raw=true)
 
 ### Example2:
-![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot1.png?raw=true)
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot2_.png?raw=true)
 
 ### Example3:
-![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot2.png?raw=true)
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot3_.png?raw=true)
+
+### Example4:
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot4_.png?raw=true)
+
+### Example5:
+![alt text](https://github.com/zach721/ReactDex/blob/main/src/Screenshots/screenshot5_.png?raw=true)
 
 
 
