@@ -143,8 +143,8 @@ function Pokedex(){
       <div id="pokedex">
      {pokelist ? <div id="listpoke" >
       
+     <h1>Pokedex list</h1>
       <ul>
-      <h1>Pokemon list</h1>
 
       {
         list.map((list3)=>{
@@ -159,7 +159,7 @@ function Pokedex(){
             <div onClick={()=>{{setApi(api__)}{setApides(api3_)}{setCount(parseInt(nurl,10))}}} class="row" >
             <img  src={url} />
             <h1>{list3.url.replace(/\D/g, '').substring(1)}º </h1>
-            <h1 id={list3.name.toString()} > {list3.name}</h1>
+            <h1 id={list3.name.toString()} > {list3.name.slice(0, 9)}</h1>
             
             </div>
          
@@ -220,3 +220,4 @@ function Pokedex(){
 
 
 export default Pokedex
+
